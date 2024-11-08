@@ -1,0 +1,163 @@
+html{
+    background-color: #d0e7ff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center   
+    
+    
+}
+
+body {
+   margin: 0 auto;
+   transform: scale(0.8);
+   transform-origin:top center;
+   align-items: center;
+   
+} p{
+    font-size: 25px ;
+    margin: 10px;
+    text-align: justify;
+    
+} h2{
+    text-align:center;
+    font-size: 50px;
+    font-family:serif ;
+} .foto{
+    margin: 30px;
+    text-align: center;
+    display:block;
+    margin:auto;
+
+    
+}td, th {
+    border: 2px solid black; 
+    margin: 2%;
+}br{
+    margin: 30px;
+}#menu{height: 30px;
+    background-position: center;
+    margin: 20px;
+
+}table{
+    width: 100%; 
+    border: 3px solid;
+    text-align: center;
+    font-size: 30px;
+}#title{
+margin: 50px;
+text-align: center;
+}li{
+    margin: 30px;
+    font-size: 30px;
+    
+    
+}h3{
+    font-size: 22px;
+}hr{
+    border: 2px solid black;
+}.decora{
+    text-decoration: none;
+    color: #00008B; 
+    font-weight: bold;
+
+}textarea{
+    font-size: 30px;
+}footer{
+
+   
+    text-align: center;
+    padding: 10px 0;
+}
+#Nomm {
+    font-size: 22px;
+    font-weight: bold;
+    color: #333;
+    font-family: Georgia;
+}
+#mail-label {
+    font-size: 22px;
+    font-weight: bold;
+    color: #333;
+    font-family:Georgia;
+}
+#valoracio-label {
+    font-size: 22px;
+    font-weight: bold;
+    color: #333;
+    font-family: Georgia;
+}
+#data-visualitzacio-label {
+    font-size: 22px;
+    font-weight: bold;
+    color: #333;
+    font-family: Georgia;
+}
+#recomanacio-label {
+    font-size: 22px;
+    font-weight: bold;
+    color: #333;
+    font-family:Georgia;
+}
+#opinio-label {
+    font-size: 22px;
+    font-weight: bold;
+    color: #333;
+    font-family: Georgia;
+}#INCI{
+    display:block;
+margin:auto;
+} 
+iframe{
+    display:block;
+margin:auto;
+}header {
+    background-color: #3b5998; 
+    color: #ffffff; 
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.navv {
+    
+    padding: 15px;
+    width: 80%;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+margin: auto;
+}.navv ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0;
+}.navv a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 18px;
+    transition: color 0.3s, transform 0.3s;
+}
+
+section {
+    padding: 20px;
+    background-color: #ffffff; 
+}
+
+
+footer {
+    background-color: #333333; 
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+}*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
